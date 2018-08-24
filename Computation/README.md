@@ -39,9 +39,15 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 6-26  | M   |     |     |     |     |
-6-27  | T   |     | Justin Gardiner |  | [Comp Prob Set 2]() |
-6-28  | W   |     |         |          | due W, 7-5, 8am    |
-6-29  | Th  |     | Justin Gardiner |  |   |
+6-27  | T   | Visualizations | Justin Gardiner | [Visualizations Notebook](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Tutorials/PythonVisualize.ipynb) | [Comp Prob Set 2](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/VisPandas_probset.pdf) |
+|     |     | and Pandas  |    | [ACME: Intro to Matplotlib](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/PlottingIntro.pdf) | due W, 7-5, 8am |
+|     |     |     |    | [ACME: Data Visualization](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol1A-DataVisualization-2016.pdf) |   |
+|     |     |     |    | [ACME: Pandas 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas1-2016.pdf) |   |
+6-28  | W   |     |         |          |     |
+6-29  | Th  | Visualizations | Justin Gardiner | [Pandas Notebook](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Tutorials/PythonNumpyPandas.ipynb) |   |
+|     |     | and Bokeh      |          | [ACME: Pandas 3](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas3-2016.pdf) |    |
+|     |     |      |          | [ACME: Pandas 4](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas4-2016.pdf) |    |
+|     |     |     |    | [ACME: Bokeh](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Bokeh-2016.pdf) |   |
 6-30  | F   |     |     |     |     |
 
 ### Week 3
@@ -51,17 +57,27 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 7-3  | M    | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |  |
 7-4  | T    | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |  |
 7-5  | W    |     |         |          |   |
-7-6  | Th   |     | Justin Gardiner |  | [Comp Prob Set 3]() |
-7-7  | F    |     |     |     | due T, 7-11, 8am |
+7-6  | Th   |  Matrix Decomposition | Justin Gardiner | [ACME: QR Decomp 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-QR1-Decomposition-2016.pdf) | [Comp Prob Set 3](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Decomp_probset.pdf) |
+|     |     | and Compute Speed |          | [ACME: QR Decomp 2](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-QR2-LeastSqEigs-2016.pdf) | due T, 7-11, 8am |
+|     |     |      |          | [ACME: SVD Image Compress](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-SVD-2016.pdf) |  |
+|     |     |      |          | [ACME: Drazin Inverse](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1B-Drazin-2017.pdf) |  |
+|     |     |      |          | [QuantEcon: Need For Speed](https://lectures.quantecon.org/py/need_for_speed.html) |  |
+7-7  | F    |     |     |     |  |
 
 ### Week 4
 
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-10  | M   |     |     |     |     |
-7-11  | T   |  | Justin Gardiner |      | Comp Prob Set 4  |
-7-12  | W   |     |     |     | due Th, 7-20, 8am |
-7-13  | Th  |  | Justin Gardiner |      |  |
+7-11  | T   | Matrix conditions | Justin Gardiner | [ACME: PageRank Algorithm](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_PageRank.pdf) | [Comp Prob Set 4](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/DifIntOpt_probset.pdf)  |
+|     |     | Numerical Diff. and Int. |           | [ACME: Conditioning and Stability](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_CondStab.pdf) | due Th, 7-20, 8am |
+|     |     |     |      | [ACME: Numerical Differentiation](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_NumDiff.pdf) |  |
+|     |     |     |      | [Evans: Numerical Integration](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/NumIntegr_Evans.pdf) |  |
+7-12  | W   |     |     |     |    |
+7-13  | Th  | Root finding | Justin Gardiner | [ACME: Simplex Method](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_Simplex.pdf) |  |
+|     |     |     |      | [ACME: Line Search Methods](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_LineSrch.pdf) |  |
+|     |     |     |      | [ACME: Newton's Method](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_Newtons.pdf) |  |
+|     |     |     |      | [ACME: Iterative Solvers](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IterSolvers.pdf) |  |
 7-14  | F   |     |     |     |     |
 
 ### Week 5
@@ -69,9 +85,12 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-17  | M   |     |     |     |     |
-7-18  | T   |  | Justin Gardiner |      |  |
+7-18  | T   | Minimization | Justin Gardiner | [ACME: Interior Point, Linear Programs](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IntPtLin.pdf) |  |
+|     |     |     |      | [ACME: Interior Point, Quadratic Programs](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IntPtQuad.pdf) |  |
+|     |     |     |      | [ACME: Newton and Quasi Newton Methods](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_QuasNewt.pdf) |  |
+|     |     |     |      | [ACME: Scipy.optimize](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_ScipyOpt.pdf) |  |
 7-19  | W   |     |     |     |     |
-7-20  | Th  | Adaptive sparse grids, Smolyak | Simon Scheidegger |  | Comp Prob Set 5 |
+7-20  | Th  | Adaptive sparse grids, Smolyak | [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) | [Simon's HPC Repo](https://github.com/OpenSourceMacro/Simon_HPC)  | Comp Prob Set 5 |
 7-21  | F   |     |     |     | due T, 7-25, 8am    |
 
 ### Week 6
@@ -79,9 +98,9 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-24  | M   |     |     |     |     |
-7-25  | T   | HPC, parallel computing | Simon Scheidegger |  | Comp Prob Set 6 |
+7-25  | T   | HPC, parallel computing | [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) | [Simon's HPC Repo](https://github.com/OpenSourceMacro/Simon_HPC) | Comp Prob Set 6 |
 7-26  | W   |     |     |     | due T, 8-1, 8am |
-7-27  | Th  | HPC, parallel computing | Simon Scheidegger |  |  |
+7-27  | Th  | HPC, parallel computing | [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) | [Simon's HPC Repo](https://github.com/OpenSourceMacro/Simon_HPC) |  |
 7-28  | F   |     |     |     |     |
 
 ### Week 7
@@ -89,10 +108,10 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-31 | M   |      |     |     |     |
-8-1  | T   | HPC, parallel computing | Simon Scheidegger |  | Comp Prob Set 7  |
+8-1  | T   | HPC, parallel computing | [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) | [Simon's HPC Repo](https://github.com/OpenSourceMacro/Simon_HPC) | Comp Prob Set 7  |
 8-2  | W   |      |     |     | due F, 8-4, 8am |
-8-3  | Th  | HPC, parallel computing | Simon Scheidegger |  |  |
-8-4  | F   | Conclusion: Hwk due |  |  |  |
+8-3  | Th  | HPC, parallel computing | [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) | [Simon's HPC Repo](https://github.com/OpenSourceMacro/Simon_HPC) |  |
+8-4  | F   | [Conclusion:](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Conclusion_BootCamp.pdf) Hwk due |  |  |  |
 
 
 ## References
